@@ -43,7 +43,7 @@ Building high-performance asynchronous backend systems, microservices, and low-l
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 **Languages:** Python 3.12+, C++
 **Backend & Networks:** FastAPI, Asyncio, WebSockets, Qt, QSslSocket, Telethon, Aiogram, httpx
 **Databases & Migrations:** PostgreSQL, Async SQLAlchemy, Alembic, MinIO, PGAdmin4
