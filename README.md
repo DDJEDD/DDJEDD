@@ -44,6 +44,14 @@ Building high-performance asynchronous backend systems, microservices, and low-l
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-4B8BBE?style=for-the-badge&logo=cloudflare&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![httpx](https://img.shields.io/badge/httpx-000000?style=for-the-badge&logo=python&logoColor=white)
+ 
 **Languages:** Python 3.12+, C++
 **Backend & Networks:** FastAPI, Asyncio, WebSockets, Qt, QSslSocket, Telethon, Aiogram, httpx
 **Databases & Migrations:** PostgreSQL, Async SQLAlchemy, Alembic, MinIO, PGAdmin4
