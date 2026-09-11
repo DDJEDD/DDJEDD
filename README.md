@@ -31,7 +31,7 @@ Building high-performance asynchronous backend systems, microservices, and low-l
 
 ## 🛠 Tech Stack
 
-![Tech Arsenal](https://skillicons.dev/icons?i=cpp,qt,py,fastapi,postgres,redis,kafka,docker,nginx,aws,linux,git,github,vscode)
+![Tech Arsenal](https://skillicons.dev/icons?i=cpp,qt,py,fastapi,postgres,redis,kafka,docker,nginx,aws,linux,git,github,vscode,clion,pycharm)
  
 **Languages:** Python 3.12+, C++
 **Backend & Networks:** FastAPI, Asyncio, WebSockets, Qt, QSslSocket, Telethon, Aiogram, httpx
