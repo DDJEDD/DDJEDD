@@ -5,7 +5,7 @@ Building high-performance asynchronous backend systems, microservices, and low-l
 ---
 
 ## 📊 Skill Levels
-* **C++ & Low-level Networking (QSslSocket, Sockets, HTTP Parsing)** — `Senior`
+* **C++ & Low-level Networking (QSslSocket, Sockets, HTTP Parsing)** — `Middle`
 * **Python & Asyncio** — `Middle`
 * **FastAPI & WebSockets** — `Middle`
 * **PostgreSQL & SQLAlchemy (Async)** — `Middle`
